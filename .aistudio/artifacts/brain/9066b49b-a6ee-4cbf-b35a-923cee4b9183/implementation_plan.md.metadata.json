@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para AgroGuía v3.0: Plataforma web para la comunidad agrícola con arquitectura full-stack, autenticación segura sin alerts, catálogo técnico de 12+ cultivos con 3 niveles, generación dinámica de PDFs botánicos, cámara IA con Gemini Vision, y diseño fiel a la guía de marca e imágenes de referencia.",
+  "updatedAt":  "2026-10-26T23:13:55.463777389Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "AgroGuía — Plataforma para la Comunidad Agrícola",
+  "description": "Manuales técnicos en PDF, diagnóstico fitosanitario con IA mediante cámara y planes de fertilización NPK para productores agrícolas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
